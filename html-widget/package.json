@@ -1,0 +1,14 @@
+{
+  "name": "html-widget-doc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass src/index.scss index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.50.1"
+  }
+}
